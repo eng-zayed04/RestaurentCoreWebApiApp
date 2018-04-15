@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurentCoreWebApiApp", "RestaurentCoreWebApiApp\RestaurentCoreWebApiApp.csproj", "{5EA8FB86-4395-44E3-80ED-D40F5D9EEABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EA8FB86-4395-44E3-80ED-D40F5D9EEABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA8FB86-4395-44E3-80ED-D40F5D9EEABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA8FB86-4395-44E3-80ED-D40F5D9EEABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA8FB86-4395-44E3-80ED-D40F5D9EEABA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38EACD2E-FDF7-47E4-9F79-7108C8A71F92}
+	EndGlobalSection
+EndGlobal
